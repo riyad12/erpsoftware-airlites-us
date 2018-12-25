@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/09/top-five-things-to-do-prior-to.html"}
-if(x=="2"){xxx="/2018/09/your-erp-implementation-best-practices.html"}
-if(x=="3"){xxx="/2018/09/five-erp-software-trends-to-watch-in.html"}
-if(x=="4"){xxx="/2018/09/five-surprising-takeaways-from-2018-erp.html"}
-if(x=="5"){xxx="/2018/09/top-predictions-for-erp-software.html"}a_to_ve[i].href="http://www.onicnetwork.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/12/6-benefits-of-machine-learning-and-ai.html"}
+if(x=="2"){xxx="/2018/12/how-to-manage-change-during-merger-or.html"}
+if(x=="3"){xxx="/2018/12/5-benefits-of-business-process.html"}
+if(x=="4"){xxx="/2018/12/6-ways-to-mitigate-software.html"}
+if(x=="5"){xxx="/2018/12/how-to-improve-your-sales-processes-and.html"}a_to_ve[i].href="https://erpsoftware.airlites.us"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
